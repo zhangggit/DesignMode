@@ -1,0 +1,1 @@
+include ':app', ':factorymode', ':factorymethodmode', ':abstractfactorymode', ':observemode', ':myobservermode', ':strategymode'

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DesignMode.iml" filepath="$PROJECT_DIR$/DesignMode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/abstractfactorymode/abstractfactorymode.iml" filepath="$PROJECT_DIR$/abstractfactorymode/abstractfactorymode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/factorymethodmode/factorymethodmode.iml" filepath="$PROJECT_DIR$/factorymethodmode/factorymethodmode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/factorymode/factorymode.iml" filepath="$PROJECT_DIR$/factorymode/factorymode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myobservermode/myobservermode.iml" filepath="$PROJECT_DIR$/myobservermode/myobservermode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/observemode/observemode.iml" filepath="$PROJECT_DIR$/observemode/observemode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/strategymode/strategymode.iml" filepath="$PROJECT_DIR$/strategymode/strategymode.iml" />
+    </modules>
+  </component>
+</project>
